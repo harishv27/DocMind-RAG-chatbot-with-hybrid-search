@@ -60,9 +60,13 @@ DocMind/
 │   └── uploads/                ← Uploaded files (git-ignored)
 ├── frontend/
 │   └── index.html              ← Full chat UI (no framework)
-├── .gitignore
 └── README.md
 ```
+
+## Demo
+
+<img width="602" height="300" alt="Picture1" src="https://github.com/user-attachments/assets/d9854c28-e36a-4d61-abac-7dfd2e429ed3" />
+
 
 ---
 
@@ -76,8 +80,8 @@ DocMind/
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/docmind-rag.git
-cd docmind-rag
+https://github.com/harishv27/DocMind-RAG-chatbot-with-hybrid-search
+cd DocMind-RAG-chatbot-with-hybrid-search
 ```
 
 ### 2. Create and activate conda environment
