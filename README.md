@@ -65,7 +65,7 @@ DocMind/
 
 ## Demo
 
-<img width="602" height="300" alt="Picture1" src="https://github.com/user-attachments/assets/d9854c28-e36a-4d61-abac-7dfd2e429ed3" />
+<img width="2878" height="1436" alt="Screenshot 2026-05-31 124048" src="https://github.com/user-attachments/assets/791185ed-9880-422d-a939-30ac89605e61" />
 
 
 ---
